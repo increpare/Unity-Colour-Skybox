@@ -5,4 +5,4 @@ with 3-colors:
 ![screenshot](screenshot.png)
 
 with gradient texture:
-![screenshot](screenshot.png)
+![screenshot2](screenshot2.png)
